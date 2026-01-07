@@ -14,6 +14,8 @@
 <img aling="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img aling="center" alt="html" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+<img aling="center" alt="html" src="https://img.shields.io/badge/php" />
 </div>
 
 ## contatos
