@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Ademir Junior</h1>
-<h3 align="center">Desenvolvedor Full Stack Júnior | Python | php | JavaScript</h3>
+<h3 align="center">Desenvolvedor Full Stack Júnior | python | php | JavaScript</h3>
 
 <p align="center">
   Desenvolvedor Full Stack com experiência prática em aplicações web, automação e integração com bancos de dados.
