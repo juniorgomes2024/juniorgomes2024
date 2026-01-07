@@ -15,7 +15,8 @@
 
 <img aling="center" alt="html" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
-<img aling="center" alt="html" src="https://img.shields.io/badge/php" />
+<img alt="WordPress Plugin Required PHP Version" src="https://img.shields.io/wordpress/plugin/required-php/:slug">
+
 </div>
 
 ## contatos
